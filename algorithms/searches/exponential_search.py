@@ -1,4 +1,4 @@
-from algorithms.binary_search import binary_search
+from algorithms.searches.binary_search import binary_search
 
 def exponential_search(arr, target):
     """Exponential Search - finds the range, then uses binary search."""

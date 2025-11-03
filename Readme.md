@@ -201,3 +201,22 @@ If you want to **document your learning or generate algorithm reports automatica
 
 ## 🧩 Credits
 Created as a practical learning project for understanding **search algorithms**, **Flask APIs**, and **Docker deployment**.
+
+# Search Algorithms — Dockerized Learning Project
+
+This repository contains implementations of many classic algorithms (search, sort, graph, string), a Flask API exposing them, Docker support, unit tests, and CI.
+
+## Quick start
+
+1. Build & run with docker-compose:
+   Service will be on http://localhost:5000
+
+2. Example: Binary search
+   curl -X POST -H "Content-Type: application/json"
+   -d '{"array":[2,5,8,12,16,23,38,56,72,91],"target":23}'
+
+3. Run tests:
+   pytest -q
+
+See the code and the `/` endpoint for available routes and sample payloads.
+

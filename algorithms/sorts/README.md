@@ -204,6 +204,6 @@ function quick_sort(array):
 
 Continue learning with:
 
-* 🔍 [Search Algorithms](../searches/README_searches.md)
+* 🔍 [Search Algorithms](../searches/README.md)
 * 🌐 [Graph Algorithms](../graphs/README.md)
-* ✍️ [String Algorithms](../strings/README_strings.md)
+* ✍️ [String Algorithms](../strings/README.md)

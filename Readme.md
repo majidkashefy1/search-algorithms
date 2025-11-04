@@ -353,13 +353,3 @@ pytest -q
 (Pytest will automatically detect paths if you use the provided `conftest.py`.)
 
 ---
-
-## 💡 Learning Tip
-Try modifying the array size and order to see how each algorithm performs differently.
-
-If you want to **document your learning or generate algorithm reports automatically**, you can use [**Jenni AI**](https://jenni.ai/?via=lekys) — it helps you write, organize, and research efficiently.
-
----
-
-## 🧩 Credits
-Created as a practical learning project for understanding **search algorithms**, **Flask APIs**, and **Docker deployment**.
